@@ -1,0 +1,12 @@
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Core\bin\Debug\net8.0\BilgisayarMagazasiSistemi.Core.deps.json
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Core\bin\Debug\net8.0\BilgisayarMagazasiSistemi.Core.dll
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Core\bin\Debug\net8.0\BilgisayarMagazasiSistemi.Core.pdb
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Core\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Core\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Core.AssemblyInfoInputs.cache
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Core\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Core.AssemblyInfo.cs
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Core\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Core.csproj.CoreCompileInputs.cache
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Core\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Core.sourcelink.json
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Core\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Core.dll
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Core\obj\Debug\net8.0\refint\BilgisayarMagazasiSistemi.Core.dll
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Core\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Core.pdb
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Core\obj\Debug\net8.0\ref\BilgisayarMagazasiSistemi.Core.dll

@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BilgisayarMagazasiSistemi.Core\BilgisayarMagazasiSistemi.Core.csproj" />
+  </ItemGroup>
+
 </Project>

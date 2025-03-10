@@ -1,0 +1,13 @@
+﻿@model BilgisayarMagazasiSistemi.Core.Entities.Product
+
+<h2>Ürünü Sil</h2>
+
+<p><strong>İsim:</strong> @Model.Name</p>
+<p><strong>Fiyat:</strong> @Model.Price</p>
+<p><strong>Stok:</strong> @Model.Stock</p>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Sil</button>
+</form>
+<a asp-action="Index" class="btn btn-secondary">Geri</a>

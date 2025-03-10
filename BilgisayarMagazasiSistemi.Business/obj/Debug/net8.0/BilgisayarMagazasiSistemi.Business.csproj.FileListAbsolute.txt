@@ -1,0 +1,16 @@
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\bin\Debug\net8.0\BilgisayarMagazasiSistemi.Business.deps.json
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\bin\Debug\net8.0\BilgisayarMagazasiSistemi.Business.dll
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\bin\Debug\net8.0\BilgisayarMagazasiSistemi.Business.pdb
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Business.AssemblyInfoInputs.cache
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Business.AssemblyInfo.cs
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Business.csproj.CoreCompileInputs.cache
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Business.sourcelink.json
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Business.dll
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\obj\Debug\net8.0\refint\BilgisayarMagazasiSistemi.Business.dll
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Business.pdb
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\obj\Debug\net8.0\ref\BilgisayarMagazasiSistemi.Business.dll
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\bin\Debug\net8.0\BilgisayarMagazasiSistemi.Core.dll
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\bin\Debug\net8.0\BilgisayarMagazasiSistemi.Core.pdb
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\obj\Debug\net8.0\BilgisayarMagazasiSistemi.Business.csproj.AssemblyReference.cache
+C:\Users\yedek\OneDrive\Masaüstü\yazılım\csharp\Bilgisayarmagazasi\BilgisayarMagazasiSistemi.Business\obj\Debug\net8.0\Bilgisay.9F2E2F61.Up2Date

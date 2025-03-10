@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\projects\\BilgisayarMagazasiSistemi.Core\\BilgisayarMagazasiSistemi.Core.csproj": {}
+    "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.Core\\BilgisayarMagazasiSistemi.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\projects\\BilgisayarMagazasiSistemi.Core\\BilgisayarMagazasiSistemi.Core.csproj": {
+    "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.Core\\BilgisayarMagazasiSistemi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\projects\\BilgisayarMagazasiSistemi.Core\\BilgisayarMagazasiSistemi.Core.csproj",
+        "projectUniqueName": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.Core\\BilgisayarMagazasiSistemi.Core.csproj",
         "projectName": "BilgisayarMagazasiSistemi.Core",
-        "projectPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\projects\\BilgisayarMagazasiSistemi.Core\\BilgisayarMagazasiSistemi.Core.csproj",
-        "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\projects\\BilgisayarMagazasiSistemi.Core\\obj\\",
+        "projectPath": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.Core\\BilgisayarMagazasiSistemi.Core.csproj",
+        "packagesPath": "C:\\Users\\yedek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yedek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

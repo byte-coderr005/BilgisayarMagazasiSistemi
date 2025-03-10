@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BilgisayarMagazasiSistemi.Business/1.0.0": {
+        "dependencies": {
+          "BilgisayarMagazasiSistemi.Core": "1.0.0"
+        },
+        "runtime": {
+          "BilgisayarMagazasiSistemi.Business.dll": {}
+        }
+      },
+      "BilgisayarMagazasiSistemi.Core/1.0.0": {
+        "runtime": {
+          "BilgisayarMagazasiSistemi.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BilgisayarMagazasiSistemi.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BilgisayarMagazasiSistemi.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
