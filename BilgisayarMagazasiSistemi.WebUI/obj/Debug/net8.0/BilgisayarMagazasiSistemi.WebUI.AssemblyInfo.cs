@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BilgisayarMagazasiSistemi.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0d735f8eafdb25bdad22eab7f67fcc208736dad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67c7f7ee41e324619d944a6ff415c99bba7ece16")]
 [assembly: System.Reflection.AssemblyProductAttribute("BilgisayarMagazasiSistemi.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BilgisayarMagazasiSistemi.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
