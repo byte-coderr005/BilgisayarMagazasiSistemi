@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\BilgisayarMagazasiSistemi.WebUI.q8c16zz16o.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\background.jpg",
+      "PackagePath": "staticwebassets\\css\\background.jpg"
+    },
+    {
       "Id": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\site1.css",
+      "PackagePath": "staticwebassets\\css\\site1.css"
     },
     {
       "Id": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\favicon.ico",

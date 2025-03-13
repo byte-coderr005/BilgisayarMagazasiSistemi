@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nozRZKjAf3Fa1MVCIn8G1JLz19WA8+Q1ctH5JdK27kg=",
+  "Hash": "sI5vSb0OFOGyGani3pwKBWvC/uLyjGjOKBA9U0kCLG0=",
   "Source": "BilgisayarMagazasiSistemi.WebUI",
   "BasePath": "_content/BilgisayarMagazasiSistemi.WebUI",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BilgisayarMagazasiSistemi.WebUI.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\background.jpg",
+      "SourceId": "BilgisayarMagazasiSistemi.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\",
+      "BasePath": "_content/BilgisayarMagazasiSistemi.WebUI",
+      "RelativePath": "css/background#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "678d9me6iq",
+      "Integrity": "wovMC8gUvT4iENjplcJLEPOUv64fDQqOBE4eP0K0Ujg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\background.jpg"
+    },
+    {
       "Identity": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\site.css",
       "SourceId": "BilgisayarMagazasiSistemi.WebUI",
       "SourceType": "Discovered",
@@ -73,11 +94,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "aj9nc1fa8f",
+      "Integrity": "+s+sf8fW7Q7LKTt7Xr8teCvoy5BlFlu1M7ywZIgmvL8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\site1.css",
+      "SourceId": "BilgisayarMagazasiSistemi.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\",
+      "BasePath": "_content/BilgisayarMagazasiSistemi.WebUI",
+      "RelativePath": "css/site1#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zzolcvll5z",
+      "Integrity": "MZaa7H2wkK7thsNfef/Bj3eW5shQEfumghL8m49VL5A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site1.css"
     },
     {
       "Identity": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\favicon.ico",
@@ -1485,8 +1527,8 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\site.css",
+      "Route": "css/background.678d9me6iq.jpg",
+      "AssetFile": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\background.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1495,19 +1537,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "5193"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"wovMC8gUvT4iENjplcJLEPOUv64fDQqOBE4eP0K0Ujg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:05:04 GMT"
+          "Value": "Thu, 13 Mar 2025 06:54:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1517,7 +1559,89 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "678d9me6iq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/background.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wovMC8gUvT4iENjplcJLEPOUv64fDQqOBE4eP0K0Ujg="
+        }
+      ]
+    },
+    {
+      "Route": "css/background.jpg",
+      "AssetFile": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wovMC8gUvT4iENjplcJLEPOUv64fDQqOBE4eP0K0Ujg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 06:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wovMC8gUvT4iENjplcJLEPOUv64fDQqOBE4eP0K0Ujg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.aj9nc1fa8f.css",
+      "AssetFile": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+s+sf8fW7Q7LKTt7Xr8teCvoy5BlFlu1M7ywZIgmvL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 06:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aj9nc1fa8f"
         },
         {
           "Name": "label",
@@ -1525,7 +1649,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-+s+sf8fW7Q7LKTt7Xr8teCvoy5BlFlu1M7ywZIgmvL8="
         }
       ]
     },
@@ -1540,7 +1664,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "488"
         },
         {
           "Name": "Content-Type",
@@ -1548,11 +1672,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"+s+sf8fW7Q7LKTt7Xr8teCvoy5BlFlu1M7ywZIgmvL8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:05:04 GMT"
+          "Value": "Thu, 13 Mar 2025 06:55:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1562,7 +1686,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-+s+sf8fW7Q7LKTt7Xr8teCvoy5BlFlu1M7ywZIgmvL8="
+        }
+      ]
+    },
+    {
+      "Route": "css/site1.css",
+      "AssetFile": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\site1.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZaa7H2wkK7thsNfef/Bj3eW5shQEfumghL8m49VL5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 07:18:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZaa7H2wkK7thsNfef/Bj3eW5shQEfumghL8m49VL5A="
+        }
+      ]
+    },
+    {
+      "Route": "css/site1.zzolcvll5z.css",
+      "AssetFile": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\site1.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZaa7H2wkK7thsNfef/Bj3eW5shQEfumghL8m49VL5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 07:18:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zzolcvll5z"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site1.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZaa7H2wkK7thsNfef/Bj3eW5shQEfumghL8m49VL5A="
         }
       ]
     },

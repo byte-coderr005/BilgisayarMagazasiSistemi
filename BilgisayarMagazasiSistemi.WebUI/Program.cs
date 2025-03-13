@@ -23,9 +23,9 @@ builder.Services.AddScoped<IOrderService, OrderService>();
 // Controller desteği
 builder.Services.AddControllersWithViews();
 
-var app = builder.Build(); 
+var app = builder.Build();
 
-
+app.UseStaticFiles(); 
 app.UseRouting();
 app.UseAuthorization();
 app.MapControllerRoute(
