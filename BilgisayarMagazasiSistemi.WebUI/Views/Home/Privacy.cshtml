@@ -1,6 +1,9 @@
-﻿@{
-    ViewData["Title"] = "Privacy Policy";
-}
-<h1>@ViewData["Title"]</h1>
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
-<p>Use this page to detail your site's privacy policy.</p>
+@*Tag helpers*@
+<form asp-action="index" asp-controller="Product" method="post">
+
+    @Html.TextBox("txtAdi");
+    <input type = "text" />
+</form>
+

@@ -1,4 +1,5 @@
 wwwroot\css\background.jpg
+wwwroot\css\keyboard.jpg.jpg
 wwwroot\css\site.css
 wwwroot\css\site1.css
 wwwroot\favicon.ico

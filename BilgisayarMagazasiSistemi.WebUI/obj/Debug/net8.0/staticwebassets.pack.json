@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\background.jpg"
     },
     {
+      "Id": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\keyboard.jpg.jpg",
+      "PackagePath": "staticwebassets\\css\\keyboard.jpg.jpg"
+    },
+    {
       "Id": "C:\\Users\\yedek\\OneDrive\\Masaüstü\\yazılım\\csharp\\Bilgisayarmagazasi\\BilgisayarMagazasiSistemi.WebUI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
